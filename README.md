@@ -1,2 +1,1 @@
-# Machine_Learning
-Seft-taught Machine Learning
+This is a repo to document my work on Machine Learning
